@@ -1,7 +1,7 @@
 # Fact-Checking-Generalization
 Data and Codes for ["Investigating Zero- and Few-shot Generalization in Fact Verification"](https://arxiv.org/abs/2309.09444) (IJCNLP-AACL 2023). 
 
-Authors: **Liangming Pan*, Yunxiang Zhang*, Min-Yen Kan**. 
+Authors: **Liangming Pan, Yunxiang Zhang, Min-Yen Kan**. 
 
 ## Introduction
 
